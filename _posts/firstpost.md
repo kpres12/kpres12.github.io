@@ -1,5 +1,4 @@
-
-# 🛡️ Welcome to My Cybersecurity Learning Journey
+🛡️ Welcome to My Cybersecurity Learning Journey
 
 *Posted on September 9, 2024*
 
