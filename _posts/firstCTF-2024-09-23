@@ -1,0 +1,27 @@
+# 🌐 My First CTF: Patriot CTF at George Mason University
+
+Recently, I had the opportunity to participate in my very first **Capture The Flag (CTF)** competition—[George Mason University’s Patriot CTF]. 
+🏴‍☠️ It was an intense but incredibly rewarding experience! 
+Out of 1,361 teams, my team placed **314**, which puts us in the top 23% of participants. I'm excited about this result, and even more excited about everything I learned along the way.
+
+## What I Focused On: OSINT Challenges 🔍
+During the competition, I primarily focused on **OSINT** (Open-Source Intelligence) challenges. OSINT was the area where I felt the most confident going in, and it didn’t disappoint. The process of using publicly available information to solve puzzles was fascinating and showed me how much can be uncovered with the right tools and mindset. These challenges pushed me to think creatively, hone my investigative skills, and uncover insights that were hidden in plain sight.
+
+The sheer variety of OSINT challenges kept things interesting—some involved gathering information from social media, while others required analyzing obscure online documents or using metadata to track down crucial information. I loved how each challenge tested different aspects of my research and problem-solving skills. This experience has given me a new appreciation for the power of OSINT in real-world cybersecurity scenarios.
+
+## Learning Beyond My Strengths: Web Attacks & Decryption 🔐
+While OSINT was my strongest area during the competition, there were other domains I’m eager to explore further. Challenges involving **web attacks** and **password decryption** really caught my interest, even though I wasn’t as skilled in these areas at the time. The competition helped me identify these as key areas for growth. 
+
+Web attack challenges involved understanding vulnerabilities in web applications, which I found fascinating. As someone who is eager to learn more about the technical side of cybersecurity, I’m already planning to deep-dive into web attack methods like SQL injection, cross-site scripting (XSS), and more. Similarly, the password decryption challenges taught me about various encryption methods and how attackers might approach cracking them, which opened my eyes to the importance of robust password security.
+
+## What’s Next? 💻
+Now that the competition is over, I’m excited to continue building on the skills I gained during the CTF. Over the next few months, I plan to work through the web attack and password decryption challenges that I couldn’t fully tackle during the event. My goal is to strengthen my technical capabilities and broaden my understanding of vulnerabilities and defense mechanisms in web security. 
+
+## Sharing the Knowledge: Write-ups Coming Soon 📚
+To consolidate my learning and help others who might be new to CTF competitions, I’ll be writing detailed blog posts on the OSINT challenges I tackled. In these posts, I’ll walk through my thought process, the tools I used, and the steps I took to solve each challenge. I'll also share any insights I gained and highlight any mistakes I made, so others can learn from my experience. OSINT is an incredibly powerful tool, and I’m excited to share what I’ve learned.
+
+Stay tuned for those write-ups and more content on my ongoing journey into the world of cybersecurity!
+
+---
+
+_Thanks for reading! If you're also into CTFs or cybersecurity, feel free to connect with me! Let's chat about challenges, share tips, and learn together._
