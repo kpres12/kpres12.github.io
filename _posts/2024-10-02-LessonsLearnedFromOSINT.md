@@ -6,9 +6,9 @@ In this post, we dive deeper into the methods used during the recent OSINT (Open
 
 ## Tools and Techniques Breakdown
 
-### 1. **Google Reverse Image Search**
+### 1. **Google (and Bing!) Reverse Image Search**
 
-Google's reverse image search feature was instrumental in locating the source of the outdated satellite image. By uploading the image, we were able to identify a matching location on a Blogger website.
+Google and Bing's reverse image search feature was instrumental in locating the source of the outdated satellite image. By uploading the image, we were able to identify a matching location on a Blogger website. I did try Yandex as well, but I found Google and Bing's process more intuitive and easier to get good results from.
 
 #### Why It Worked:
 - **Effectiveness:** It’s an efficient way to find visually similar content across the web, which can reveal valuable context or source materials, such as identifying landmarks or military bases.
