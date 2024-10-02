@@ -1,11 +1,11 @@
-# OSINT Challenge Write-Up: Tracking the Submarine
+# OSINT Challenge Write-Up: Give me four words Vasily
 
 ## Challenge Overview
 
 - **Challenge Name:** Tracking the Submarine
 - **Category:** OSINT (Open-Source Intelligence)
-- **Points:** [Insert Points Value]
-- **Difficulty:** [Insert Difficulty Level]
+- **Points:** 100
+- **Difficulty:** Easy
 - **Description:**
 
 > We have been tracking a highly suspicious submarine believed to be harboring many enemy skiddies. Unfortunately, this satellite image is rather out of date. Your mission is to locate the submarines using a more up-to-date image, and tell us what class they are with their NATO reporting name — a letter from the NATO phonetic alphabet, spelled out.  
